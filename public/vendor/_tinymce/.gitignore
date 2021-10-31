@@ -1,0 +1,11 @@
+/.npmignore
+/bower.json
+/changelog.txt
+/composer.json
+/jquery.tinymce.js
+/jquery.tinymce.min.js
+/license.txt
+/package.json
+/readme.md
+/tinymce.js
+/tinymce.min.js

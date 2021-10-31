@@ -105,3 +105,5 @@ Route::post('kategorie/{id}/edit','\App\Http\Controllers\osk\KategorieController
 // Routing - SKP
 
 Route::resource('skp', '\App\Http\Controllers\skp\SkpController');
+
+// End Routing - SKP
